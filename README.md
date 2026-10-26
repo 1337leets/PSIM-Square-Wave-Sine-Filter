@@ -5,7 +5,7 @@ passive RLC network, at 50, 80 and 100 Hz.
 
 There is no switching element in these circuits. The 5 V square-wave source
 stands in for the output of a square-wave inverter, and the RLC network acts
-as its output filter: it passes the fundamental and attenuates the higher
+as its output filter. It passes the fundamental and attenuates the higher
 harmonics, so the current in the 100 Ω load comes out close to a sine wave.
 
 These are exploratory circuits. The component values were tuned by trial,
